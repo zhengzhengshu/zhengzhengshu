@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me zhengzhengdeai@gamil.com
+- 📫 How to reach me zhengzhengdeai@gmail.com
 
 <!---
 zhengzhengshu/zhengzhengshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
